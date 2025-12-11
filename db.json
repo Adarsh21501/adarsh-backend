@@ -1,0 +1,28 @@
+{
+  "students": [
+    {
+      "id": "2",
+      "name": "Aarav",
+      "place": "Delhi",
+      "phone": "8765432109"
+    },
+    {
+      "id": "87",
+      "name": "kjvj",
+      "place": "mn b",
+      "phone": "jhv bgjc "
+    },
+    {
+      "id": "2",
+      "name": "adarsh",
+      "place": "ap",
+      "phone": "9099909090"
+    },
+    {
+      "id": "5",
+      "name": "7",
+      "place": "501",
+      "phone": "8786"
+    }
+  ]
+}
